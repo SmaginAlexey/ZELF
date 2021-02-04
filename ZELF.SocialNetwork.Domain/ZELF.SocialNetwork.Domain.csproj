@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ZELF.SocialNetwork.Api\ZELF.SocialNetwork.Api.csproj" />
+    <ProjectReference Include="..\ZELF.SocialNetwork.EFData\ZELF.SocialNetwork.EFData.csproj" />
+  </ItemGroup>
+
+</Project>
